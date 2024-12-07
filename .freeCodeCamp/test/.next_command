@@ -38,3 +38,5 @@ cp students.csv students_test.csv
 ./insert_data.sh
 ./insert_data.sh
 \d students
+\d students
+./insert_data.sh
